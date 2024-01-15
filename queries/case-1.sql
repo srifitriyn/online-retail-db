@@ -1,3 +1,5 @@
+-- 1 customer buy 3 different products
+
 INSERT INTO cart
     (customer_id, total_price)
 VALUES
